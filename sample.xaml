@@ -1,0 +1,5 @@
+<Label Text="{i18n:Translate Complaint DetailsText}" TextColor="{StaticResource Color_Grey}" />
+<local:MultiLineLabel x:Name="ComplaintDetails" Text="This is a long test string This is a long test string This is a long test string..." FontSize="20" LineBreakMode="TailTruncation" Lines="2" TextColor="{StaticResource Color_Black}" />
+<Label x:Name="ReadMore" Text="Read more" TextColor="{StaticResource Color_SkyBlue}" />
+
+
